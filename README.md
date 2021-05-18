@@ -1,2 +1,2 @@
 # HelloWorld-java
-first java program
+first java program to print 'Helloworld!!!' in console
